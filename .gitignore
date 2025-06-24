@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Text files (you can remove this if you want cake.txt tracked)
+cake.txt

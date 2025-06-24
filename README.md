@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Cake World Banner" width="100%">
+  <img src="assets/banner.png" alt="Cake World Banner" width="100%">
 </p>
+
 
 # 🍰 Cake World - Python Recipe Manager
 

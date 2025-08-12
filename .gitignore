@@ -14,5 +14,5 @@ env/
 .DS_Store
 Thumbs.db
 
-# Text files (you can remove this if you want cake.txt tracked)
+# Text files
 cake.txt

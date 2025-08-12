@@ -16,8 +16,8 @@
 ## 📌 Features
 
 - 📝 Add a new cake recipe  
-- 🔍 View a recipe by cake name  
-- 🗑️ Delete a recipe by cake name  
+- 🔍 View  recipe  
+- 🗑️ Delete  recipe 
 - ✏️ Edit a saved recipe  
 - 📋 List all saved cake names  
 - 📄 Display all saved recipes (formatted)
@@ -69,13 +69,13 @@ cake-world/
 ______Welcome To The Cake World______
 
 What you want to do
-1. Add New Recipe
-2. View Recipe by Cake Name
-3. Delete Recipe by Cake Name
-4. Edit Recipe
+1. Add Recipe
+2. Search Recipe
+3. Delete Recipe
+4. Update Recipe
 5. List All Cake Names
 6. Print All Recipes
-(1/2/3/4/5/6) or 'q' to quit:
+7. Exit
 ```
 
 ---
@@ -83,10 +83,9 @@ What you want to do
 ## 🧁 Example Recipe Format
 
 ```text
-======================================
-Cake_Name:Chocolate Fudge
-Cake_Ingredients:Flour, Cocoa, Eggs, Sugar
-Cake_Recipe:Mix ingredients and bake at 180°C for 30 mins
+Title:Chocolate Fudge
+Ingredients:Flour, Cocoa, Eggs, Sugar
+Recipe:Mix ingredients and bake at 180°C for 30 mins
 ======================================
 ```
 
@@ -94,7 +93,6 @@ Cake_Recipe:Mix ingredients and bake at 180°C for 30 mins
 
 ## 💡 Future Ideas
 
-* 🔍 Search by ingredient
 * 🔄 Export/import recipes in JSON
 * 🖥 GUI version using Tkinter
 * 🌐 Web version using Flask
